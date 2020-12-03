@@ -10,8 +10,26 @@ function App() {
   return(
     <div className="App">
       <Navbar/>
+      <Navbar/>
+      <Navbar/>
+      <Navbar/>
+      <Navbar/>
+      <Navbar/>
+      <Splash/>
+      <Splash/>
+      <Splash/>
       <Splash/>
       <Photos/>
+      <Photos/>
+      <Photos/>
+      <Descriptions/>
+      <Descriptions/>
+      <Descriptions/>
+      <Descriptions/>
+      <Descriptions/>
+      <Descriptions/>
+      <Descriptions/>
+      <Descriptions/>
       <Descriptions/>
     </div>
   );
